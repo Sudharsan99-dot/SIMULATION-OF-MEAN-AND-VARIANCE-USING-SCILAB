@@ -63,7 +63,7 @@ plot2d3('gnn',r);
 ```
 # OUTPUT
 
-<img width="505" height="735 alt="result" src="https://github.com/user-attachments/assets/4f33dd9e-a489-4b46-9068-79006a8f7db3" />
+<img width="505" height="735" alt="result" src="https://github.com/user-attachments/assets/4f33dd9e-a489-4b46-9068-79006a8f7db3" />
 
 <img width="610" height="460" alt="image" src="https://github.com/user-attachments/assets/8292014a-f835-4661-b71e-f25e59d63492" />
 
