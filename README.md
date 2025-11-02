@@ -1,4 +1,4 @@
-# SIMULATION-OF-MEAN-AND-VARIANCE-USING-SCILAB
+![3s](https://github.com/user-attachments/assets/a9ebc9f9-ca49-47b5-8e9f-fb4ed26b1988)# SIMULATION-OF-MEAN-AND-VARIANCE-USING-SCILAB
 # AIM:
 To write a program for mean, variance and cross correlation in SCILAB and verify the output.
 
@@ -67,11 +67,11 @@ plot2d3('gnn',r);
 
 <img width="610" height="460" alt="image" src="https://github.com/user-attachments/assets/8292014a-f835-4661-b71e-f25e59d63492" />
 
-# CALCULATIO
+# CALCULATION
 
-![1](https://github.com/user-attachments/assets/663591b3-391b-4913-8ed7-d921eb5cea12)
-![2](https://github.com/user-attachments/assets/49cc9acb-d63d-4691-8eb7-84a5c4ade636)
-![3](https://github.com/user-attachments/assets/367c5e1d-4117-4748-ad5b-942cedc56a4c)
+![2s](https://github.com/user-attachments/assets/d608c62b-0f63-4281-999a-cae1c45f27da)
+![Uploa![4s](https://github.com/user-attachments/assets/40725b72-5845-4621-a81e-2a3cbe7cc14b)
+![4s](https://github.com/user-attachments/assets/52cb1373-e1d0-4e7a-8041-f8cc6dcf461c)
 
 # RESULT:
 Thus the mean , variance and cross correlation are executed in Scilab and output is verified.
